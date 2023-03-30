@@ -33,7 +33,7 @@
 ### Задание 2
 
 - [Решение задания 2](https://github.com/niccon93/Git-8.1/commit/535966d989cc331535f4ee077706e40651f3d9e8)
-
+- [Решение задания 2 Правки](https://github.com/niccon93/Git-8.1/commit/eb38a5f2e7af41881b51196c714c4fbfc585507d)
 
 
 ---
