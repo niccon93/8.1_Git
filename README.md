@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-- [Решение задания 1](#https://github.com/niccon93/Git-8.1/commit/9e29736dd19d82940bfeb41e80028cd761299c0b)
+- [Решение задания 1](https://github.com/niccon93/Git-8.1/commit/9e29736dd19d82940bfeb41e80028cd761299c0b)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Задание 2
 
-- [Решение задания 2](#https://github.com/niccon93/Git-8.1/commit/535966d989cc331535f4ee077706e40651f3d9e8)
+- [Решение задания 2](https://github.com/niccon93/Git-8.1/commit/535966d989cc331535f4ee077706e40651f3d9e8)
 
 
 
